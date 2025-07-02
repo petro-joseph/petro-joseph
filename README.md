@@ -23,8 +23,6 @@ I’m open to collaborating on:
 - LinkedIn: [Petro Joseph Ghati](https://www.linkedin.com/in/petrogaty/)
 - GitHub: [@petro-joseph](https://github.com/petro-joseph)
 
-## 😄 Pronouns
-He/Him
 
 ## ⚡ Fun Facts
 - I find learning languages (like French) just as exciting as learning new programming frameworks.
