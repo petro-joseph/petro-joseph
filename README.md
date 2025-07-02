@@ -14,9 +14,9 @@ I'm a **Senior Full Stack Engineer** with over 3 years of experience in building
 
 ## 🤝 Let’s Collaborate
 I’m open to collaborating on:
-- Backend-heavy projects with clean architecture
+- Backend / Full-Stack projects with clean architecture
 - Open-source tools for data automation
-- Anything with a meaningful social or economic impact in Africa 🌍
+- Anything with a meaningful social or economic impact  🌍
 
 ## 📬 Reach Me
 - Email: petergaty360@icloud.com
